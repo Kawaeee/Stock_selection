@@ -1,5 +1,5 @@
 # Stock Selection
-This project is a part of CSC344 Decision Support System
+This project is a part of CSC344 Decision Support System.
  
   ### Problem statement   
    - To start investing in the stock exchange, the investor must have knowledge about the economy, trend, and risk. Beginner investor doesn’t know how to buy a good index and always lose their balance. It’s hard to keep tracking of the indexes as the stock exchange can vary a lot in one day.  
